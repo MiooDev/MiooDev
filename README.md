@@ -13,17 +13,3 @@
   </BR>
   </BR>
 [![Baby Z's github stats](https://github-readme-stats.vercel.app/api?username=MiooDev&theme=discord_old_blurple)](https://github.com/JustLazzy)
-
-
-
-</div>
-
-<div align="center">
-<BR>
-<BR>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nqvehdpubh3nacplzsbtrjrqm4&cover_image=true&theme=natemoo-re&bar_color=3672ab&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-</BR>
