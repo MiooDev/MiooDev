@@ -8,7 +8,8 @@
 <h2 align="center">Github Stats</h2>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiooDev&show_icons=true&theme=discord_old_blurple)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiooDev&show_icons=true&theme=radical)
   </BR>
   </BR>
 [![Baby Z's github stats](https://github-readme-stats.vercel.app/api?username=MiooDev&theme=discord_old_blurple)](https://github.com/MiooDev)
